@@ -4,7 +4,7 @@ I am a software engineer at Tata Consulatancy Services. working on Inventory and
 
 - 🔭 I’m currently working on Web based Application using MERN
 - 🌱 I’m currently learning React JS
-- 🤔 I’m looking for help with in javascript adavance fetures
+- 🤔 I’m looking for help with in javascript adavance features
 - 💬 Ask me about Core Java upto SE 7
 - 📫 How to reach me: jaganiravi96@gmail.com
 
