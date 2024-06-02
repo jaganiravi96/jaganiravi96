@@ -5,5 +5,5 @@ I am a software engineer at Cognizant. working on Enterprise Content Management 
 - 🔭 I’m currently working on AWS service with Java and Python
 - 🌱 I’m currently learning React JS
 - 🤔 I’m looking for help with in javascript advance features
-- 💬 Ask me about Core Java up to SE 7
+- 💬 Ask me about Core Java & Frameworks
 - 📫 How to reach me: jaganiravi96@gmail.com
